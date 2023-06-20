@@ -12,7 +12,7 @@ Estudando na **CESAR School.**<br/>
 
 Eu sou desenvolvedor **Front-end**.
 
-----
+<br>
 
 ## 🚀 Minhas Skills
 
